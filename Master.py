@@ -11,6 +11,7 @@ import tkinter as tk
 from tkinter import ttk, messagebox
 import threading
 import json
+import picamera2
 import math
 import csv
 import traceback
